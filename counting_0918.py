@@ -1,4 +1,4 @@
-pip install ultralytics
+#pip install ultralytics
 
 import cv2
 from ultralytics import solutions
